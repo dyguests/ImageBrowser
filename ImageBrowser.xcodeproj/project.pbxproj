@@ -397,6 +397,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ImageBrowser/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fanhl.ImageBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -408,6 +409,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ImageBrowser/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fanhl.ImageBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -481,6 +483,7 @@
 				02273D081BCDEE3800C9008A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		02273D091BCDEE3800C9008A /* Build configuration list for PBXNativeTarget "ImageBrowserTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +492,7 @@
 				02273D0B1BCDEE3800C9008A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		02273D0C1BCDEE3800C9008A /* Build configuration list for PBXNativeTarget "ImageBrowserUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +501,7 @@
 				02273D0E1BCDEE3800C9008A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
